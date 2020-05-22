@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="lun" size="15.000000 14.539474" />
+    <ImageTarget name="head" size="15.000000 10.333333" />
+    <ImageTarget name="kideny" size="15.000000 11.235521" />
+    <ImageTarget name="heart1" size="15.000000 12.551021" />
+    <ImageTarget name="brain1" size="15.000000 12.000000" />
+    <ImageTarget name="lung1" size="15.000000 10.202206" />
+    <ImageTarget name="Liver" size="15.000000 14.030172" />
+    <ImageTarget name="kideny2" size="15.000000 13.242678" />
+    <ImageTarget name="stomach" size="15.000000 9.945652" />
+    <ImageTarget name="upper1" size="15.000000 17.457476" />
+  </Tracking>
+</QCARConfig>
